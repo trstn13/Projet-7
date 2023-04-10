@@ -1,0 +1,13 @@
+body {
+    font-family: system-ui;
+    background-color: azure;
+}
+
+.titreP {
+    font-size: 50px;
+    text-align: center;
+}
+
+.titre {
+    font-size: 20px;
+}
