@@ -1,7 +1,25 @@
 body {
     font-family: system-ui;
-    background-color: azure;
 }
+
+
+.surfacew {
+    background-color: #99d9ff;
+}
+
+.deepw {
+    background-color: #46b8fb;
+}
+
+.darkw {
+    background-color: #276b93;
+}
+
+#iVSd {
+    border: solid;
+    border-width: 2px;
+}
+
 
 .titreP {
     font-size: 50px;
