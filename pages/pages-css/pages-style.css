@@ -15,18 +15,20 @@ body {
     background-color: #276b93;
 }
 
-#iVSd {
-    border: solid;
-    border-width: 2px;
-}
-
 
 .titreP {
     font-size: 50px;
     font-weight: bold;
+    text-decoration: underline;
     text-align: center;
 }
 
 .titre {
-    font-size: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.tableau {
+    border: solid;
+    border-width: 2px;
 }
